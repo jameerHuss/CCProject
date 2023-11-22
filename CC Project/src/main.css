@@ -1,0 +1,198 @@
+.bod{
+  margin: 0%;
+}
+.top{
+  margin-top:30px;
+  margin-left: 120px;
+  width:80%;
+  border: 1px solid whitesmoke;
+  height:70px;
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.664);
+  border-radius: 40px;
+}
+#fontsize{
+font-weight: 500;
+}
+.sig
+{
+position:absolute;
+top: 7px;
+left: 10px;
+
+}
+.log
+{
+height: 3rem;
+width: 4.5rem;
+position: absolute;
+top: 11px;
+left: 18px;
+border-radius: 40px;
+font-family:'Lucida Sans';
+}
+.nam
+{
+position: absolute;
+top: 3px;
+left: 7.5vw;
+}
+#login:hover{
+   background-color: crimson;
+   color:white;
+}
+#homeimg{
+    border-radius:50%;
+}
+.my{
+  margin-top:23px;
+  float:right;
+  padding-right: 30px;
+}
+.My{
+  float:left;
+  padding-right:10px ;
+}
+.About{
+  height:180vh;
+  background-color:#002960;
+  display:flex;
+  justify-content: center;
+}
+.About1{
+  width:1200px;
+  height:90%;
+  border: 1px solid black;
+  border-radius: 40px;
+  background-color:rgba(251, 254, 254, 0.737);
+  margin-top: 75px;
+  border:none;
+  background-image: url("");
+}
+.About2{
+  height:800px;
+}
+.About3{
+  height:90%;
+  width:100%;
+  border-radius:40px;
+  background-size:cover;
+ background-image: url(""); 
+}  
+.About4{
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left:70px;
+}
+.Ourj{
+  height:100vh;
+  background-color: rgb(252, 244, 232);
+}
+.Ourj1{
+  display:flex;
+  flex-direction: column;
+}
+.Ourj3 h1{
+  text-align: center;
+}
+.Ourj2{
+  display:flex;
+  gap:10%;
+}
+.intro{
+background-image: url("C:\Users\Jamee\Desktop\My WorkPlace\my work 2\pro1\public\Blue Minimalist Life Insurance Instagram Post (1).png");
+  height:100vh;
+background-size:100%;
+display:flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+position:static;
+}
+
+.intro1{
+font-family: sans-serif;
+ font-size: 100px;
+color:antiquewhite;
+margin-top: 280px;
+}
+.intro2{
+font-size:30px;
+font-weight:500;
+margin-top:-50px;
+color:antiquewhite;
+}
+.intro3{
+ height:70px;
+ width:13%;
+ color:antiquewhite;
+ font-weight: 600;
+ background-color:transparent;
+ border-radius: 50px;
+ scroll-behavior:smooth;
+ font-size:23px;
+ border: 1px solid white;
+ cursor:grab;
+ text-align: center;
+ text-decoration: none;
+
+}
+#down {
+margin-top: 100vh;
+}
+.intro3:hover{
+background-color: orangered;
+transform: scale(1.1);
+}
+.intro3 span {
+display: inline-block;
+position: relative;
+margin-top: 20px;
+transition: 0.5s;
+}
+
+.intro3 span:after {
+content: '\00bb';
+position: absolute;
+opacity: 0;
+top: 0;
+right: -20px;
+transition: 0.5s;
+}
+
+.intro3:hover span {
+padding-right: 25px;
+
+}
+
+.intro:hover span:after {
+opacity: 1;
+right: 0;
+
+}
+.footer
+{
+  color: white;
+  background-color: #002960;
+  margin-top: 43%;
+  margin-bottom: 40px;
+}
+.jam
+{
+      margin-top: 170px;
+      margin-left: 20px;
+      height: 50vh;
+      width: 80vw;
+      border-radius: 20px;
+      display: flex;
+      
+      background-color: white;
+}
+.newpara
+{
+  font-size: 20px;
+  font-style:oblique;
+  margin-left: 1%;
+  margin-top: 10%;
+}

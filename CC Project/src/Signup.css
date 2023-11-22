@@ -1,0 +1,97 @@
+.signdiv
+{
+   background-image: url('C:\Users\Jamee\Desktop\My WorkPlace\my work 2\pro1\public\shield2.png');
+    margin:0;
+    padding: 0;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    height:  100vh;
+    width:100vw;
+
+   background-size: contain;
+    /* background-image: url("https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg");
+ */
+}
+
+.op
+{
+  color: #002960;
+}
+.main
+{
+display: flex;
+text-align: center  ;
+  align-items:center ;
+  justify-content: center;
+  flex-direction: column;
+  gap:30px;
+    width: 310px;
+    height: 500px;
+    background-color: white;
+  opacity: 1;
+   border-radius: 10px;
+   box-shadow:  5px 20px 40px #000;
+   
+}
+.oi
+{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 28px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: whitesmoke;
+  border: 2px solid #002960;
+}
+
+.io
+{
+   width: 209px;
+   height: 29px;
+   border-radius: 10px;
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   background-color: white;
+   border: 2px solid #002960;
+}
+.but {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+ ;
+}
+
+.but:hover {background-color: red}
+
+.but:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.logdiv{
+  align-items: center;
+  text-align: center;
+  color: red;
+  animation: Parallax 3s infinite;
+}
+
+@keyframes Parallax {
+  from{
+      transform: scale(0);
+  }
+  to{
+      transform: scale(2);
+  }
+ 
+}
