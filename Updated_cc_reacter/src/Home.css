@@ -1,0 +1,177 @@
+.log{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    gap: 181px;
+  }
+  .log1
+  {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    height: 200px;
+    width: 200px; 
+  
+  }
+  .t
+  {
+    background-color: antiquewhite;
+  }
+  .log2
+  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    margin-left: 70PX;
+    height: 200px;
+    width: 500px;
+    
+  }
+  .log3
+  {
+    
+    height: 200px;
+    width: 200px; 
+    bottom: 16cm;
+    
+    
+  }
+  .r
+  {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+  }
+  .tl{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: solid black 3px;
+    border-radius: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .jk
+  {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .hg
+  {
+    display: flex;
+    justify-content: center;
+    width: 1100PX;
+  }
+  .d4
+  {
+   
+    display: flex;
+    justify-content: flex-start; 
+  }
+  ul{
+    display: flex;
+    gap: 200px;
+    font-size: 20px;
+    list-style: none;
+    
+    
+  }
+  .tooop
+  {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .log5
+  {
+    
+    position: relative;
+    bottom: 0.2rem;
+    
+  }
+  .log6
+  {
+    position: relative; 
+  }
+  .tot
+  {
+    background-color: aliceblue;
+    height: 100vh;
+    width: 100vw;
+    
+  }
+  
+   .jam
+  {
+        margin-top: 60px;
+        margin-left: 225px;
+        height: 30vh;
+        width: 70vw;
+        border-radius: 20px;
+        display: flex;
+        
+        background-color: white;
+  }
+   .newpara
+  {
+    font-size: 20px;
+    font-style:oblique;
+    margin-left: 1%;
+    margin-top: 3%;
+  }
+  
+  .go{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    height: 60px;
+    width: 100px;
+    background-color: antiquewhite;
+  }
+  .ind{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    height: 60px;
+    width: 100px;
+    background-color: antiquewhite;
+  }
+  .roll
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 500px;
+  }
+  h1{
+    color: rgba(red, green, blue, alpha);
+  }
+  .ee
+  {
+    width: 100px;
+    height: 33px;
+    left: 60px;
+  
+  }
+  
+  .page1lastbut
+  {
+    top: 35px;
+    width: 150px;
+    height: 43px;
+    left: 87%;
+    
+  }

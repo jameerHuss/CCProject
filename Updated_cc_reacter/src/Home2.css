@@ -1,0 +1,148 @@
+body{
+    border:0;
+    margin:0;
+ 
+}
+.home2div
+{
+    margin-top:1%;
+    background-color: aliceblue;
+    height: 60vw;
+}
+.not
+{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.not1
+{
+   
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+   
+}
+.not2
+{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    
+}
+.not3
+{
+   
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+   
+}
+
+.not4
+{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    
+}
+.in1
+{
+    position: relative;
+   background-color: aquamarine;
+   width: 1000px;
+   right: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid black 1px;
+    border-radius: 50px;
+    
+}
+
+.p1
+{
+    font-size: 20px;
+}
+.in2
+{
+    left: 110px;
+    position: relative;
+   background-color: aquamarine;
+   width: 900px;
+   border: solid black 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.p2
+{
+    font-size: 20px;
+}
+.in3
+{
+    position: relative;
+   background-color: aquamarine;
+   width: 1000px;
+   right: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid black 1px;
+    border-radius: 50px;
+}
+
+.p3
+{
+    font-size: 20px;
+}
+.in4
+{
+    left: 100px;
+    position: relative;
+   background-color: aquamarine;
+   width: 1000px;
+   border: solid black 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.p4
+{
+    font-size: 20px;
+}
+
+.footte
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 75px;
+    background-color: #002960;
+}
+.nan
+{
+   
+    text-align: center;
+    color: white;
+}
+.Home2butdiv
+{
+    margin-left:1%;
+    width: 4vw;
+    height: 6vh;
+
+}

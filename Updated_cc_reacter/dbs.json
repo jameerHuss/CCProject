@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "jam@gmail.com",
+      "password": "j97",
+      "text": "James",
+      "newtext": "Indian",
+      "gender": "Male",
+      "Date": "10/02/2008"
+    },
+    {
+      "email": "1@f.c",
+      "password": "12345",
+      "text": "3245678",
+      "newtext": "Indian",
+      "gender": "",
+      "date": "2023-11-06",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
